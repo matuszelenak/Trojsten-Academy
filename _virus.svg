@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   viewBox="0 0 744.09448 1052.3622"
    id="svg4382"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="41.193362"
-     inkscape:cy="570.32375"
+     inkscape:cx="73.903262"
+     inkscape:cy="567.46661"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,7 +51,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-3.464567e-6)">
     <g
        id="g4234"
        transform="translate(-70.232033,-259.62831)">
