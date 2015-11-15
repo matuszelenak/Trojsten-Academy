@@ -16,7 +16,10 @@
    id="svg4170"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="banner.svg">
+   sodipodi:docname="banner.svg"
+   inkscape:export-filename="/home/whiskas/MEGAsync/Trojsten/Trojsten-Academy/banner.png"
+   inkscape:export-xdpi="175.13905"
+   inkscape:export-ydpi="175.13905">
   <defs
      id="defs4172" />
   <sodipodi:namedview
@@ -27,8 +30,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="578.89458"
-     inkscape:cy="395.42661"
+     inkscape:cx="607.80614"
+     inkscape:cy="372.85251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,6 +58,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.26772)">
+    <rect
+       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:#ffffff;stroke-width:1.10904825;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10011"
+       width="1090.9297"
+       height="771.72156"
+       x="-22.205832"
+       y="291.73489"
+       sodipodi:insensitive="true" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20.85710526px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.19183457px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -18486,12 +18497,6 @@ C+j/lHLJwE5gZK+8+WunlSRJf/eUsfx5XV96LbLf/QbnHdMX322NIwAAAABJRU5ErkJggg==
        id="path5657-3-0-2-3-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       style="opacity:0.85100002;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.39068609;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 406.66821,651.2838 16.43219,-1.71282 -0.13843,-9.25129 -1.53223,-9.3126"
-       id="path4335-3-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
     <g
        id="g4234-0-9"
        transform="matrix(0.06933849,0,0,0.06573708,485.62665,831.01691)"
@@ -18750,8 +18755,7 @@ C+j/lHLJwE5gZK+8+WunlSRJf/eUsfx5XV96LbLf/QbnHdMX322NIwAAAABJRU5ErkJggg==
        width="1055.6094"
        height="747.51288"
        x="-2.0203052"
-       y="305.85947"
-       sodipodi:insensitive="true" />
+       y="305.85947" />
     <circle
        r="2.7197993"
        cy="808.37329"
@@ -19280,5 +19284,12 @@ C+j/lHLJwE5gZK+8+WunlSRJf/eUsfx5XV96LbLf/QbnHdMX322NIwAAAABJRU5ErkJggg==
          x="372.04459"
          y="681.96045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.57448387px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.4595747px;stroke-opacity:1">prednášky pre študentov stredných škôl</tspan></text>
+    <rect
+       style="opacity:0;fill:#aa0000;fill-opacity:1;stroke:#ffffff;stroke-width:1.074;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9990"
+       width="1052.5791"
+       height="747.51294"
+       x="1.0101525"
+       y="306.8696" />
   </g>
 </svg>
